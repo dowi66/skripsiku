@@ -228,7 +228,7 @@
             
 
 
-            <button type="submit" class="btn btn-primary float-end">Lengkapi Data</button>
+            <button type="submit" class="btn btn-primary float-end" name="btnedit">Lengkapi Data</button>
             
           </form>
         </section>
